@@ -1,2 +1,2 @@
 # PruebaRX
-Esto es una pruba
+Esto es una  para aprender Humberto 
